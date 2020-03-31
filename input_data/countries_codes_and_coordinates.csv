@@ -1,4 +1,4 @@
-,country,alpha2,alpha3,numeric,latitude,longitude,penalty,population,jhu_ID,global_level,continent_level,notes
+,country,alpha2,alpha3,numeric,latitude,longitude,penalty,population,ID,global_level,continent_level,notes
 1,Antarctica,AQ,ATA,10,-90,0,0.6,NA,Antarctica,Global,Antarctica,NA
 2,South Georgia and the South Sandwich Islands,GS,SGS,239,-54.5,-37,0.8,NA,SouthGeorgiaandtheSouthSandwichIslands,Global,South America,NA
 3,Bouvet Island,BV,BVT,74,-54.4333,3.4,0.8,NA,BouvetIsland,Global,Antarctica,NA
